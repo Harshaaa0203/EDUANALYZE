@@ -1,16 +1,79 @@
-# React + Vite
+# 🎓 EduAnalyze
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+EduAnalyze is an AI-powered student performance analysis platform designed to help students evaluate their academic performance and identify areas for improvement. The platform provides insightful analytics, visual reports, and personalized recommendations based on student marks and performance.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+🌐 https://eduanalyze1.vercel.app/
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
 
-## Expanding the Oxlint configuration
+- 📊 Student Performance Analysis
+- 📈 Interactive Charts & Analytics
+- 🎯 Subject-wise Performance Evaluation
+- 🤖 AI-Based Improvement Suggestions
+- 📚 Personalized Study Recommendations
+- 📱 Fully Responsive Design
+- ⚡ Fast and Modern User Interface
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Chart.js
+- Vercel (Deployment)
+
+---
+
+## 📂 Project Structure
+
+```
+EduAnalyze/
+│── index.html
+│── style.css
+│── script.js
+│── assets/
+│── images/
+└── README.md
+```
+
+---
+
+## 📸 Screenshots
+
+Add your project screenshots here.
+
+---
+
+## 💡 Purpose
+
+EduAnalyze helps students understand their academic strengths and weaknesses through visual analytics and AI-powered insights, enabling smarter learning and better exam preparation.
+
+---
+
+## 📌 Future Enhancements
+
+- User Authentication
+- AI Chat Assistant
+- PDF Report Generation
+- Performance Prediction
+- Study Planner
+- Cloud Database Integration
+
+---
+
+## 👨‍💻 Author
+
+**Harshavardhana Reddy BK**
+
+- GitHub: https://github.com/Harshaaa0203
+- LinkedIn: https://linkedin.com/in/harshavardhana-reddy-8065403a7
+
+---
+
+⭐ If you like this project, don't forget to star the repository!
